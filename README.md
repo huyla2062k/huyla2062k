@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huyla2062k
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Java Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
